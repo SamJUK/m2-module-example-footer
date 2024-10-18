@@ -1,0 +1,17 @@
+{
+    "name": "samjuk/m2-module-example-footer",
+    "description": "Adds 4 example ctas to the top of the footer",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+      "MIT"
+    ],
+    "autoload": {
+      "psr-4": {
+        "SamJUK\\ExampleFooter\\": ""
+      },
+      "files": [
+        "registration.php"
+      ]
+    }
+  }

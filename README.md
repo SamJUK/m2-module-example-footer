@@ -8,7 +8,6 @@ Simple module that adds some dummy content to the page footer when installed. Wi
 
 ## Installation
 ```sh
-composer config repositories.samjuk-m2-module-example-footer vcs git@github.com:SamJUK/m2-module-example-footer.git
 composer require samjuk/m2-module-example-footer
 php bin/magento cache:flush
 ```

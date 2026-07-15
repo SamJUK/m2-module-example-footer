@@ -4,14 +4,36 @@
     "type": "magento2-module",
     "version": "1.0.0",
     "license": [
-      "MIT"
+        "MIT"
     ],
     "autoload": {
-      "psr-4": {
-        "SamJUK\\ExampleFooter\\": ""
-      },
-      "files": [
-        "registration.php"
-      ]
-    }
-  }
+        "psr-4": {
+            "SamJUK\\ExampleFooter\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    },
+    "homepage": "https://github.com/SamJUK/m2-module-example-footer",
+    "authors": [
+        {
+            "name": "Sam James",
+            "email": "sam@samdjames.uk",
+            "homepage": "https://www.samdjames.uk"
+        }
+    ],
+    "keywords": [
+        "magento2",
+        "magento 2",
+        "magento2-module",
+        "adobe-commerce",
+        "extension",
+        "deployment",
+        "ci-cd",
+        "smoke-test",
+        "example",
+        "footer",
+        "cta",
+        "open-source"
+    ]
+}
